@@ -1,2 +1,2 @@
-# spadeabtus
-about us for .com
+# 
+about us for spadeems.com
