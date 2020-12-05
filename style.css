@@ -9,6 +9,7 @@ nav{
 	position: fixed;
 	/* font-family: 'Oswald', sans-serif; */
 	font-family: 'Poppins', sans-serif;
+	z-index:1;
 	height: 50px;
 	width: 100%;
 	background-color: rgb(4, 16, 35);
